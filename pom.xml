@@ -25,7 +25,13 @@
 		<log4j.version>1.2.17</log4j.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<sonar.host.url>http://15.207.248.1:8094/</sonar.host.url>
+		
+	</properties>
+	<properties>
+		<!-- versions -->
+		<sonar.host.url>http://15.207.248.1:8094</sonar.host.url>
+                <sonar.login>1695d5c98b113169a6f03d7b844eb37b213f8706</sonar.host.url>		
+		
 	</properties>
 
 	<dependencies>
