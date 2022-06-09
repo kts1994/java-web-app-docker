@@ -101,13 +101,7 @@
 	
 	<!-- <distributionManagement>
 
-	<properties>
-		<!-- versions -->
-		<sonar.host.url>http://15.207.248.1:8094</sonar.host.url>
-                <sonar.login>1695d5c98b113169a6f03d7b844eb37b213f8706</sonar.host.url>		
-		
-	</properties>
-	    <repository>
+     <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://13.235.8.113:8081/repository/flipkart-release/</url>
